@@ -1,5 +1,23 @@
 # @backstage/plugin-techdocs
 
+## 1.10.8-next.2
+
+### Patch Changes
+
+- bdc5471: Fixed issue where header styles were incorrectly generated when themes used CSS variables to define font size.
+- Updated dependencies
+  - @backstage/core-compat-api@0.2.8-next.1
+  - @backstage/frontend-plugin-api@0.6.8-next.1
+  - @backstage/plugin-search-react@1.7.14-next.2
+  - @backstage/plugin-catalog-react@1.12.3-next.2
+  - @backstage/plugin-search-common@1.2.14-next.1
+  - @backstage/config@1.2.0
+  - @backstage/core-components@0.14.10-next.0
+  - @backstage/core-plugin-api@1.9.3
+  - @backstage/integration-react@1.1.30-next.0
+  - @backstage/plugin-auth-react@0.1.5-next.0
+  - @backstage/plugin-techdocs-react@1.2.7-next.0
+
 ## 1.10.8-next.1
 
 ### Patch Changes
